@@ -7,3 +7,7 @@ Searches the book you want to read from the libgen library and download it.
 3. Download the book by providing the index from the list
 
 > Install all the modules from requirements.txt before using it.
+
+## Screenshot
+
+![Screenshot](screenshot.png)
