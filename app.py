@@ -41,10 +41,10 @@ def tabulate_data(data):
 
 
 def tabulate_recommendations(data):
-    table = [["Index", "Title", "Url"]]
+    table = [["Index", "Title"]]
 
     for book in data:
-        book_detail = [book["title"], book["book_url"]]
+        book_detail = [book["title"]]
         table.append(book_detail)
     print(
         tabulate(

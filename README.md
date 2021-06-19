@@ -11,3 +11,7 @@ Searches the book you want to read from the libgen library and download it.
 ## Screenshot
 
 ![Screenshot](screenshot.png)
+
+## Demo
+
+![Demo](libgen_demo.mp4)
