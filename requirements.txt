@@ -61,7 +61,7 @@ soupsieve==2.0
 tabulate==0.8.7
 traitlets==4.3.3
 Twisted==20.3.0
-urllib3==1.25.8
+urllib3==1.26.5
 w3lib==1.21.0
 wcwidth==0.1.9
 win-inet-pton==1.1.0
