@@ -16,4 +16,4 @@ To start, Run `python app.py`
 
 ## Demo
 
-![Demo](libgen_demo.mp4)
+![Demo](demo.gif)
