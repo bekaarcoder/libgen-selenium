@@ -53,7 +53,7 @@ pytest-runner==5.2
 pywin32==227
 queuelib==1.5.0
 requests==2.23.0
-Scrapy==1.6.0
+Scrapy==2.6.2
 selenium==3.141.0
 service-identity==18.1.0
 six==1.14.0
